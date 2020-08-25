@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Good Boy](https://images-na.ssl-images-amazon.com/images/I/61QI3p%2BjYnL._AC_SX522_.jpg)
